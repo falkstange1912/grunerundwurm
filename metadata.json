@@ -1,0 +1,6 @@
+{
+  "name": "ALIVE - Hair & Art Concept Studio",
+  "description": "Eine elegante, responsive Website für ein exklusives und kunstvolles Friseur- und Styling-Atelier, inspiriert von luxuriösen Avantgarde-Salons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
